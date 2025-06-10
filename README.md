@@ -2,6 +2,7 @@
 Minecraft Bedrock Kill &amp; Death Counters, Admin Tools and Much more!
 
 checkout the full video here:
+https://youtu.be/Qup8H69vbxw
 
 PVP Kills
 Entity Kills
