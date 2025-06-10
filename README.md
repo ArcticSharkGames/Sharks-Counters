@@ -1,29 +1,50 @@
-# Sharks-Counters
-Minecraft Bedrock Kill &amp; Death Counters, Admin Tools and Much more!
+Shark's Counters
+The Most Advanced Kill & Death Counter System for Minecraft Bedrock
+Includes admin tools, scoreboard utilities, and a complete in-game UI system.
 
-checkout the full video here:
+📺 Watch the full showcase video:
 https://youtu.be/Qup8H69vbxw
 
-PVP Kills
-Entity Kills
-Deaths
-Blocks Broken
-Blocks Placed
+⚔️ Core Features
+PvP Kill Tracking
+
+Entity Kill Counters
+
+Death Counters
+
+Blocks Broken / Placed
+
 Containers Opened
+
 Distance Traveled
-Playtime
-Ban System
-Afk System
-Dynamic Action Bar
-Score Ratio's (like kill/death ratio)
-Score Rewards 
-Dynamic Score Displays 
 
-and much more. everything is very customizeable
+Playtime Counter
 
-all controlled by a clean UI menu system!
+Score Ratio System (e.g. Kill/Death)
 
-full fullReadMe.txt file included has more info!
+Score Rewards (automatic commands for reaching milestones)
 
-happy counting!!!
+🔧 Admin Systems
+Full Ban System
 
+AFK Detection
+
+Dynamic Score Displays
+
+Action Bar Stats
+
+All settings fully customizable
+
+🧭 Designed for Admins & Stat Nerds
+Everything is controlled through clean and easy-to-use UI menus, no commands needed.
+
+Supports persistent config saving, dynamic property management, and runtime script performance.
+
+📦 What's Included
+.mcpack for quick install
+
+.zip for manual import or editing
+
+fullReadMe.txt with detailed setup instructions
+
+Happy counting!
